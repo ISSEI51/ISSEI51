@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=740&height=58&lines=Physics+Student.;Software+Builder.;Cloud+Architect.;AI-Native+Developer.;Escape+the+Vibe.+Build+the+System." alt="Physics Student. Software Builder. Cloud Architect. AI-Native Developer. Escape the Vibe. Build the System." width="86%">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=740&height=58&lines=Physics+Student.;Software+Builder.;Cloud+Architect.;AI-Native+Developer.;Escape+the+Vibe.+Build+the+System." alt="Physics Student. Software Builder. Cloud Architect. AI-Native Developer. Build the System." width="86%">
 </p>
 
 <p align="center">
@@ -13,22 +13,6 @@
 </p>
 
 ---
-
-## // SYSTEM STATUS
-
-```text
-╭────────────────────────────────────────────╮
-│ USER       ISSEI  ( Issei Kunimasa )       │
-│ ROLE       SYSTEM BUILDER                  │
-│ STUDY      THEORETICAL PHYSICS             │
-│ SPECIALTY  BACKEND / AWS / AI-NATIVE       │
-│ BASE       YOKOHAMA, JP                    │
-├────────────────────────────────────────────┤
-│ MODE       SHIPPING                        │
-│ UPTIME     STUDENT, NOT AN EXCUSE          │
-│ OBJECTIVE  BUILD SOMETHING REAL            │
-╰────────────────────────────────────────────╯
-```
 
 ## // ABOUT
 
