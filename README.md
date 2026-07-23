@@ -88,15 +88,13 @@ A structured curriculum instead of a solution dump: every problem ships a writte
 
 <p align="center"><sub>Public repositories only — private work is not counted here.</sub></p>
 
-## // CONTRIBUTION TRACE
+## // DRAGON TRACE
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ISSEI51/ISSEI51/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ISSEI51/ISSEI51/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/ISSEI51/ISSEI51/output/github-snake-dark.svg" alt="Animation of a snake consuming the GitHub contribution graph" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/ISSEI51/ISSEI51/output/github-dragon-dark.svg" alt="Isometric 3D animation of a dragon devouring the GitHub contribution graph, cube by cube" width="100%">
 </p>
+
+<p align="center"><sub>An isometric dragon eats a year of commits — lowest stacks first, shortest path, one cube at a time.</sub></p>
 
 ---
 

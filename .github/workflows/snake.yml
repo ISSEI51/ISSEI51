@@ -17,14 +17,25 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?palette=github-light
-            dist/github-snake-dark.svg?color_snake=#22D3EE&color_dots=#0D1117,#1E3A5F,#3B6FA8,#22D3EE,#8B5CF6
+            dist/github-snake.svg?color_snake=#7C3AED&color_dots=#EBEDF0,#BAE6FD,#38BDF8,#0EA5E9,#7C3AED
+            dist/github-snake-dark.svg?color_snake=#22D3EE&color_dots=#151B26,#1E3A5F,#3B6FA8,#22D3EE,#8B5CF6
+
+      - name: Generate 3D dragon animation
+        run: node scripts/generate-dragon.js --user "${{ github.repository_owner }}" --out dist/github-dragon-dark.svg
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v4
